@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Art Space</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+    <string name="art1_title">Starry Night</string>
+    <string name="art1_artist">Vincent van Gogh (1889)</string>
+    <string name="art2_title">The Persistence of Memory</string>
+    <string name="art2_artist">Salvador Dalí (1931)</string>
+    <string name="art3_title">Girl with a Pearl Earring</string>
+    <string name="art3_artist">Johannes Vermeer (1665)</string>
+</resources>
